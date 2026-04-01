@@ -1,0 +1,6 @@
+# Ignore the large text folder
+text/
+
+# Ignore the large CSV files
+documents_labelled.csv
+sentences_labelled.csv
