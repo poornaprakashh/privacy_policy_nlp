@@ -8,7 +8,7 @@ A text analysis project examining whether linguistic features of confusing priva
 
 This project uses three complementary NLP methods — VADER sentiment analysis, LDA topic modelling, and DistilBERT-based supervised classification — to investigate whether privacy policies exhibit systematic linguistic patterns associated with deliberate obfuscation.
 
-**Dataset:** [Terms of Service Didn't Read (ToS;DR) — Kaggle](https://www.kaggle.com/datasets/jkhan447/tosdr-privacy-policy-dataset)  
+**Dataset:** [Terms of Service Didn't Read (ToS;DR) — Kaggle]([https://www.kaggle.com/datasets/jkhan447/tosdr-privacy-policy-dataset](https://www.kaggle.com/datasets/sonu1607/tosdr-terms-of-service-corpus))  
 9,491 plain-text policy documents scraped from company websites (privacy policies, terms of service, cookie policies, acceptable use policies).
 
 ---
