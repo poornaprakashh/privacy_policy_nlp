@@ -30,7 +30,7 @@ This project uses three complementary NLP methods — VADER sentiment analysis, 
 ### 1. Download the Data
 
 Download the dataset from Kaggle:  
-👉 https://www.kaggle.com/datasets/jkhan447/tosdr-privacy-policy-dataset
+https://www.kaggle.com/datasets/sonu1607/tosdr-terms-of-service-corpus
 
 Extract the archive so that the `text/` folder (containing all `.txt` policy files) is accessible on your machine. Note the full path — you will need it in step 3.
 
